@@ -4,7 +4,10 @@
 
 *🔎 Arquitecturas Reactivas basadas en microservicios*
 
-<a href="https://www.linkedin.com/in/martinsamanarata" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a><a href="mailto:martin.saman@vallegrande.edu.pe" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a><a href="https://www.twitter.com/martinsaman" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a><a href="https://martinsamanarata2018.github.io/MyCV/" target="_blank"><img height="30" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>
+<a href="https://www.linkedin.com/in/martinsamanarata" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="mailto:martin.saman@vallegrande.edu.pe" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+<a href="https://www.twitter.com/martinsaman" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+<a href="https://martinsamanarata2018.github.io/MyCV/" target="_blank"><img height="30" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>
 
 ## 🌱 He trabajado con
 

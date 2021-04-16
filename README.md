@@ -30,6 +30,7 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img height="43" src="https://teorema-rd.com/wp-content/uploads/2020/05/microsoft-SQL-server-logo-1024x576.jpg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
@@ -76,5 +77,5 @@
 <img width="35px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </a><a href="https://www.twitter.com/martinsaman" target="_blank">
 <img width="35px"  src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
-</a><a href="https://martinsamanarata2018.github.io/MyCV/" target="_blank">
+</a><a href="https://martinsam16.github.io/MyCV/" target="_blank">
 <img width="35px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>

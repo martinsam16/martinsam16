@@ -37,17 +37,23 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/alfresco/alfresco-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 
 ## 📅 Por trabajar
 
+<code><img height="43" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 
 ## 👷‍♂️ Codifico en

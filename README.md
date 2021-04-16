@@ -1,8 +1,8 @@
 # Hola, bienvenido a mi GitHub 👋🎉
 
-> - Me gusta codificar en 🐍 ☕
- -  Innovar 🔎
- -  Resolver problemas 🧠
+- Me gusta codificar en 🐍 ☕
+- Innovar 🔎
+- Resolver problemas 🧠
 
 
 ## 🌱 He trabajado con
@@ -65,10 +65,10 @@
 ### Puedes encontrarme
 
 <a href="https://www.linkedin.com/in/martinsamanarata" target="_blank">
-<img width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+<img width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 </a><a href="mailto:martin.saman@vallegrande.edu.pe" target="_blank">
-<img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+<img width="35px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </a><a href="https://www.twitter.com/martinsaman" target="_blank">
-<img width="40px"  src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
+<img width="35px"  src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">
 </a><a href="https://martinsamanarata2018.github.io/MyCV/" target="_blank">
-<img width="40px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>
+<img width="35px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>

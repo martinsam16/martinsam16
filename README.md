@@ -73,7 +73,7 @@
 
 <a href="https://www.linkedin.com/in/martinsamanarata" target="_blank">
 <img width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
-</a><a href="mailto:martin.saman@vallegrande.edu.pe" target="_blank">
+</a><a href="mailto:martinsam1610@outlook.com" target="_blank">
 <img width="35px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </a><a href="https://www.twitter.com/martinsaman" target="_blank">
 <img width="35px"  src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">

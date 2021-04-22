@@ -1,11 +1,11 @@
-# Hola, bienvenido a mi GitHub 👋🎉
+# Hello, welcome to my GitHub👋🎉
 
-- Me gusta codificar en 🐍 ☕
-- Innovar 🔎
-- Resolver problemas 🧠
+- I like to code in 🐍 ☕
+- Innovate 🔎
+- Solve problems 🧠
 
 
-## 🌱 He trabajado con
+## 🌱 I have worked with
 
 <code><img height="43" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
@@ -18,6 +18,7 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
 <code><img height="43" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/github-actions.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
@@ -40,13 +41,12 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/alfresco/alfresco-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 
-## 📅 Por trabajar
+## 📅 For working
 
 <code><img height="43" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
@@ -57,19 +57,19 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 
-## 👷‍♂️ Codifico en
+## 👷‍♂️ I code in
 
 <code><img height="43" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-## 🎯 Estadísticas
+## 🎯 Statistics
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=martinsam16&show_icons=true&count_private=true&include_all_commits=true)
 
 ![github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=martinsam16&show_icons=true&layout=compact)
 
 
-### Puedes encontrarme
+### Find me
 
 <a href="https://www.linkedin.com/in/martinsamanarata" target="_blank">
 <img width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
